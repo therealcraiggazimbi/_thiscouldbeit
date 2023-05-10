@@ -6,4 +6,4 @@ You can find the GitHub URL for this project below:
 
 https://github.com/therealcraiggazimbi/_bubbleSortVisualizer-.git
 
-Feel free to explore the repository and discover how the visualizer works, as well as how you can customize it to fit your needs. Enjoy!
+Feel free to explore the repository and discover how the visualizer works, as well as how you can customize it to fit your needs. Enjoy😃!
